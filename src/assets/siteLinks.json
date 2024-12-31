@@ -6,12 +6,12 @@
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
+    "name": "网盘(暂不可用)",
     "link": "https://pan.nndx.eu.org/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://kuma.nndx.eu.org/"
+    "link": "https://kuma.nndx.eu.org/status/web"
   }
 ]
