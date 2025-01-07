@@ -59,7 +59,7 @@ const getHitokotoData = async () => {
       }),
     });
     hitokotoData.text = "看春花开又落,秋风吹着那夏月走,冬雪纷纷又是一年";
-    hitokotoData.from = "「如花」";
+    hitokotoData.from = "如花";
   }
 };
 
