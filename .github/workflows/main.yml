@@ -10,7 +10,7 @@ on:
 
 jobs:
   release:
-    name: Build Web
+    name: GitHub Pages
     runs-on: windows-latest
 
     steps:
