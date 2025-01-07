@@ -10,7 +10,7 @@ on:
 
 jobs:
   release:
-    name: Build Website
+    name: Build Web
     runs-on: windows-latest
 
     steps:
