@@ -40,8 +40,8 @@ const openMusicShow = ref(false);
 
 // 一言数据
 const hitokotoData = reactive({
-  text: "这里应该显示一句话",
-  from: "無名",
+  text: "看春花开又落,秋风吹着那夏月走,冬雪纷纷又是一年",
+  from: "「如花」",
 });
 
 // 获取一言数据
@@ -58,8 +58,8 @@ const getHitokotoData = async () => {
         fill: "#efefef",
       }),
     });
-    hitokotoData.text = "这里应该显示一句话";
-    hitokotoData.from = "無名";
+    hitokotoData.text = "看春花开又落,秋风吹着那夏月走,冬雪纷纷又是一年";
+    hitokotoData.from = "「如花」";
   }
 };
 
