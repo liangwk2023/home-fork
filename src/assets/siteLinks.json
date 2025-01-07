@@ -10,6 +10,11 @@
     "link": "https://github.blog.nndx.eu.org/"
   },
   {
+    "icon": "Blog",
+    "name": "Cloudflare博客",
+    "link": "https://cf.blog.nndx.eu.org/"
+  },
+  {
     "icon": "Cloud",
     "name": "网盘(暂不可用)",
     "link": "https://pan.nndx.eu.org/"
